@@ -1,2 +1,2 @@
 # Text-Summarizer
-Text Summarizer uses Hugging face and NLP techniques to summarize a text. 
+Text Summarizer uses Hugging Face and NLP techniques to summarize a text. 
